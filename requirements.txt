@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-sklearn
+sklearn ==1.0.2
